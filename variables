@@ -1,8 +1,8 @@
 #!/bin/bash
 ## variable declaration
-person1=loukya
-person2=vishruth
-echo "$person1: hello $person2"
-echo "$person2: hii $person1, hoe r u"
-echo "$person1: i am good, how about u?"
-echo "$person2:doing well thanks $person1"
+PERSON1=loukya
+PERSON2=vishruth
+echo "$PERSON1: hello $PERSON2"
+echo "$PERSON2: hii $PERSON1, hoe r u"
+echo "$PERSON1: i am good, how about u?"
+echo "$PERSON2:doing well thanks $PERSON1"
