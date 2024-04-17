@@ -1,7 +1,7 @@
 #!/bin/bash
-## variable declaration
-PERSON1=loukya
-PERSON2=vishruth
+#### arguments passing 
+PERSON1=$1
+PERSON2=$2
 ###refering variables
 echo "$PERSON1: hello $PERSON2"
 echo "$PERSON2: hii $PERSON1, hoe r u"
