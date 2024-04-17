@@ -1,0 +1,6 @@
+#!/bin/bash
+*git status --->to check untracked files*
+*git add--->to add files to the temparary area*
+*git commit -m "meaning of ur changes"----->to commit in git that is ur laptop *
+*git push -u origin main repo name---->to push our changes to github centralized location*
+*git pull repo url---->to pull repo from github to serevr*
