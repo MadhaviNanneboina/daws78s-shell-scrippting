@@ -1,4 +1,7 @@
 #!/bin/bash
+## variable declaration
+person1=shiva
+person2=madhu
 echo "shiva: hello madhu"
 echo "madhu: hii shiva, hoe r u"
 echo "shiva: i am good, how about u?"
