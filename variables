@@ -1,1 +1,5 @@
-this one i donot want to commit
+#!/bin/bash
+echo "shiva: hello madhu"
+echo "madhu: hii shiva, hoe r u"
+echo "shiva: i am good, how about u?"
+echo "madhu:doing well thanks shiva"
