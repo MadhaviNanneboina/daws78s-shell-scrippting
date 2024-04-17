@@ -2,7 +2,7 @@
 ## variable declaration
 person1=loukya
 person2=vishruth
-echo "shiva: hello madhu"
-echo "madhu: hii shiva, hoe r u"
-echo "shiva: i am good, how about u?"
-echo "madhu:doing well thanks shiva"
+echo "$person1: hello $person2"
+echo "$person2: hii $person1, hoe r u"
+echo "$person1: i am good, how about u?"
+echo "$person2:doing well thanks $person1"
