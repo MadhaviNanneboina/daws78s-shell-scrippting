@@ -3,16 +3,17 @@
 NUMBER=$1
 
  
-#if [$NUMBER -gt 5]
+if [$NUMBER -gt 5]
+than
+echo "given number is  greater than 5"
+else
+echo "given number is lessthan 5"
+fi
+
+#if [ $NUMBER -di 2 ]
 #than
-#echo "given number is  greater than 5"
-#else
-#echo "given number is lessthan 5"
+#echo "given number is prime number"
+ #else
+#echo "given number is odd number"
 #fi
 
-if [ $NUMBER -di 2 ]
-than
-echo "given number is prime number"
- else
-echo "given number is odd number"
-fi
