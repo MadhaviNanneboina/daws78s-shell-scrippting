@@ -10,9 +10,9 @@ NUMBER=$1
 #echo "given number is lessthan 5"
 #fi
 
-if [ $NUMBER % 2 ]
+if [ $NUMBER -di 2 ]
 than
 echo "given number is prime number"
-else
+ else
 echo "given number is odd number"
 fi
